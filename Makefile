@@ -7,5 +7,5 @@ docs:
 
 clean:
 	rm -f example
-	rm -r html/
+	rm -rf html/
 
